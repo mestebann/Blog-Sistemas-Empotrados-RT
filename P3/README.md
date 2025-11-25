@@ -88,10 +88,12 @@ Durante la práctica he encontrado diversos problemas, a continuación expongo l
   ```
 
 ## ESQUEMÁTICO
-
+<img width="3171" height="2469" alt="esquema" src="https://github.com/user-attachments/assets/58bcbf28-f0f5-4e59-be6d-2a8676d3be2b" />
 
 ## VÍDEO
+A continuación se muestra el vídeo del sistema, donde se explican las distintas funcionalidades del proyecto.
 
+[Vídeo del funcionamiento](https://drive.google.com/file/d/1niG4X7gvXkJwNStAkwp2EFiOwFxAmN48/view?usp=sharing)
 
 
 
